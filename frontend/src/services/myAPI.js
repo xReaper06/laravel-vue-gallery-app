@@ -1,0 +1,1 @@
+export const localAPI = () => 'http://localhost:8000/api'
